@@ -291,12 +291,14 @@ footer{
     .cards-wrapper {
       display: flex;
       width: 100%;
-      margin:auto;
+      margin-left:2%;
+      margin-right:5%;
     }
     .cards-wrapper2 {
       display: flex;
       width: 100%;
-      margin:auto;
+      margin-left:2%;
+      margin-right:5%;
     }
 
     .card {
@@ -305,7 +307,7 @@ footer{
       margin-right: 1%;
       background-color: lightgray;
       border-radius: 8px;
-      width: 30%;
+      width: 50%;
       height: 300px;
       text-align: center;
     }
