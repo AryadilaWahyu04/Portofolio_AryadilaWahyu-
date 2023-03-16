@@ -334,6 +334,12 @@ footer{
       width: 90%;
       height: 30%;
     }
+    .text-modal {
+      text-align:justify; 
+      font-size:14px;
+      margin-left: 2%; 
+      margin-right: 2%;
+    }
 
     .btn {
       font-size: 14px;
