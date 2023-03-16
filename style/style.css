@@ -1,7 +1,7 @@
 /* home background*/
 .home{
   display: flex;
-  background: url("../images/banner_wahyu_arya.png") no-repeat center;
+  background: url("../images/banner_wahyu_arya.jpg") no-repeat center;
   height: 100vh;
   min-height: 500px;
   background-size: cover;
